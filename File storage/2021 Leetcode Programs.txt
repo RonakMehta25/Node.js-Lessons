@@ -1,0 +1,11 @@
+2021 Leetcode Programs
+
+https://leetcode.com/problems/divide-two-integers/submissions/
+
+https://leetcode.com/problems/search-in-rotated-sorted-array/
+
+https://leetcode.com/problems/determine-if-two-strings-are-close/
+
+https://leetcode.com/problems/merge-k-sorted-lists/
+
+https://leetcode.com/problems/path-with-minimum-effort/
